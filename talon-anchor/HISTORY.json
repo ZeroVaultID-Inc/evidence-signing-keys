@@ -1,0 +1,34 @@
+{
+  "history": "talon-anchor-history",
+  "version": 1,
+  "entries": [
+    {
+      "seq": 0,
+      "file": "anchors/2026-10-01/anchor-snapshot.json",
+      "snapshot_taken": "2026-10-01",
+      "next_update": "2026-10-31",
+      "sha256": "b8a7f3201546443920c5fd3720a94313f6b6aecf68ec87b808ae1916c2379248",
+      "sha3_256": "303308693e7559e622ae04f5a637c9c65f213a7891559702a542f400892121a3",
+      "signer_key_id": null,
+      "sig_sha256": null,
+      "first_published": "2026-10-25",
+      "status": "superseded",
+      "note": "unsigned",
+      "prev_entry_sha256": null
+    },
+    {
+      "seq": 1,
+      "file": "anchors/2026-10-22/anchor-snapshot.json",
+      "snapshot_taken": "2026-10-22",
+      "next_update": "2026-11-21",
+      "sha256": "82ef0ef4f54cabfb2586b34da0f50378345b43710f2aca8b215ba4dad21a9e3a",
+      "sha3_256": "84d3f711acb5dbab987b5bb588f9983f5fa4161265af29031ab612d41e6cefbb",
+      "signer_key_id": "c92e191497a9436514b33b4a45336111e21d47bfcd33cdfe694fb7d9028c2c7a",
+      "sig_sha256": "965c2124ee133c2a84836703cc07903404fdb38bc1bb7c7d7e8988465211d0d8",
+      "first_published": "2026-10-25",
+      "status": "current",
+      "note": "signed",
+      "prev_entry_sha256": "1e0cba138044b6c5e8383f8193f321717ea2e0e3c904d60d55867a6d705a272a"
+    }
+  ]
+}

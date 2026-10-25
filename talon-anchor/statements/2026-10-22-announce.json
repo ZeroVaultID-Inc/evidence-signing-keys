@@ -1,0 +1,10 @@
+{
+  "statement": "talon-anchor-key",
+  "version": 1,
+  "kind": "announce",
+  "key_id": "c92e191497a9436514b33b4a45336111e21d47bfcd33cdfe694fb7d9028c2c7a",
+  "key_file_sha256": "99eaa97bd76f05ed1fb832c61ec9d1e20102232725727281f1f654a7deca685c",
+  "key_file_sha3_256": "f77f9c240029a712d14ee8a1335a758d9c175540c98b02997aa2f16f294d8211",
+  "date": "2026-10-22",
+  "text": "This key signs TALON trust anchors, the TALON anchor history and TALON anchor-key statements only. It does not authenticate Cert Seal evidence bundles."
+}
